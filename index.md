@@ -5,9 +5,11 @@ subtitle: This is all about rLLM and what is new
 ---
 
 <center>
-<a href="{{ '/archive' | absolute_url }}">Posts</a>
-|<a href="{{ '/tags' | absolute_url }}"> Tags</a>
-|<a href="https://github.com/rllm-team/rllm"> Github</a>
+<a href="{{ '/archive' | absolute_url }}">Posts</a> <img src="/assets/img/index/new.png" alt="post" class="small-image">
+
+| <a href="{{ '/tags' | absolute_url }}"> Tags</a> <img src="/assets/img/index/tag.png" alt="post" class="small-image">
+
+| <a href="https://github.com/rllm-team/rllm"> Github</a> <img src="/assets/img/index/github.png" alt="post" class="small-image">
 </center>
 
 # rLLM is a easy-to-use Pytorch Lib for RTL Learning
