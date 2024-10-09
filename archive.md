@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 title: rLLM BLOG
 subtitle: This is all about rLLM and what is new
 ---
