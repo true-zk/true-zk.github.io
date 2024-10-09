@@ -24,5 +24,5 @@ As shown above, rLLM performs two key functions:
 
 To learn more:
 
-* Paper ([Slides](https://zhengwang100.github.io/pdf/rllm_introduction240811.pdf)): [https://arxiv.org/abs/2407.20157](https://arxiv.org/abs/2407.20157).
-* Code: [https://github.com/rllm-project/rllm](https://github.com/rllm-project/rllm).
+- Paper ([Slides](https://zhengwang100.github.io/pdf/rllm_introduction240811.pdf)): [https://arxiv.org/abs/2407.20157](https://arxiv.org/abs/2407.20157).
+- Code: [https://github.com/rllm-project/rllm](https://github.com/rllm-project/rllm).
