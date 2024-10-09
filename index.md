@@ -6,8 +6,8 @@ subtitle: This is all about rLLM and what is new
 
 <center>
 <a href="{{ '/archive' | absolute_url }}">Posts</a>
-|<a href="{{ '/tags' | absolute_url }}">Tags</a>
-|[Github](https://github.com/rllm-team/rllm)
+|<a href="{{ '/tags' | absolute_url }}"> &nbsp; Tags</a>
+|<a href="https://github.com/rllm-team/rllm"> &nbsp; Github</a>
 </center>
 
 # rLLM is a easy-to-use Pytorch Lib for RTL Learning
@@ -23,14 +23,14 @@ subtitle: This is all about rLLM and what is new
 
 Let's run an RTL-type method BRIDGE as an example:
 
-```shell
+{% highlight shell linenos %}
 # cd ./examples
 # set parameters if necessary
 
 python bridge/bridge_tml1m.py
 python bridge/bridge_tlf2k.py
 python bridge/bridge_tacm12k.py
-```
+{% endhighlight %}
 
 ## Highlight Features:
 
@@ -60,5 +60,3 @@ If you find rLLM useful, please cite the following paper:
       url={https://arxiv.org/abs/2407.20157}, 
 }
 ```
-
----
