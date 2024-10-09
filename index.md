@@ -9,7 +9,7 @@ subtitle: This is all about rLLM and what is new
 
 | <a href="{{ '/tags' | absolute_url }}"> Tags</a> <img src="/assets/img/index/tag.png" alt="post" style="width: 16px; height: 16px; vertical-align: middle;">
 
-| <a href="https://github.com/rllm-team/rllm"> Github</a> <img src="/assets/img/index/github.png" alt="post" style="width: 23px; height: 23px; vertical-align: -9px;">
+| <a href="https://github.com/rllm-team/rllm"> Github</a> <img src="/assets/img/index/github.png" alt="post" style="width: 23px; height: 23px; vertical-align: 4px;">
 </center>
 
 # rLLM is a easy-to-use Pytorch Lib for RTL Learning
