@@ -5,11 +5,11 @@ subtitle: This is all about rLLM and what is new
 ---
 
 <center>
-<a href="{{ '/archive' | absolute_url }}">Posts</a> <img src="/assets/img/index/new.png" alt="post" style="width: 26px; height: 26px; vertical-align: middle;">
+<a href="{{ '/archive' | absolute_url }}">Posts</a> <img src="/assets/img/index/new.png" alt="post" style="width: 30px; height: 30px; vertical-align: middle;">
 
 | <a href="{{ '/tags' | absolute_url }}"> Tags</a> <img src="/assets/img/index/tag.png" alt="post" style="width: 16px; height: 16px; vertical-align: middle;">
 
-| <a href="https://github.com/rllm-team/rllm"> Github</a> <img src="/assets/img/index/github.png" alt="post" style="width: 20px; height: 20px; vertical-align: -5px;">
+| <a href="https://github.com/rllm-team/rllm"> Github</a> <img src="/assets/img/index/github.png" alt="post" style="width: 23px; height: 23px; vertical-align: -9px;">
 </center>
 
 # rLLM is a easy-to-use Pytorch Lib for RTL Learning
@@ -43,11 +43,8 @@ python bridge/bridge_tacm12k.py
 
 ## Todo List:
 - Code structure optimization
-
 - Large-scale RTL training
-
 - LLM prompt optimization
-
 - Support for more TNNs
 
 ## Citation:
