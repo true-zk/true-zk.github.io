@@ -6,8 +6,8 @@ subtitle: This is all about rLLM and what is new
 
 <center>
 <a href="{{ '/archive' | absolute_url }}">Posts</a>
-|<a href="{{ '/tags' | absolute_url }}"> &nbsp; Tags</a>
-|<a href="https://github.com/rllm-team/rllm"> &nbsp; Github</a>
+|<a href="{{ '/tags' | absolute_url }}"> Tags</a>
+|<a href="https://github.com/rllm-team/rllm"> Github</a>
 </center>
 
 # rLLM is a easy-to-use Pytorch Lib for RTL Learning
