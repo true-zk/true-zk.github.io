@@ -5,7 +5,7 @@ subtitle: rLLM(relationLLM) is released for Relational Table Learning with LLMs
 gh-repo: rllm-team/rllm
 gh-badge: [star, fork, follow]
 tags: [release]
-mathjax: true
+# mathjax: true
 author: rLLM Group
 # cover-img: /assets/img/2024-10-09/bkgd.jpg
 # thumbnail-img: /assets/img/2024-10-09/bkgd.jpg
