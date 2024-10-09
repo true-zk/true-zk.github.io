@@ -5,7 +5,6 @@ subtitle: we released rLLM v0.1.0
 gh-repo: rllm-team/rllm
 gh-badge: [star, fork, follow]
 tags: [release, update]
-comments: true
 mathjax: true
 author: Ken Zhong
 cover-img: /assets/img/2024-10-09/bkgd.jpg
@@ -37,7 +36,8 @@ thumbnail-img: /assets/img/2024-10-09/bkgd.jpg
 **Error:** This is an error box.
 
 ## test fig
-![test](assets/img/2024-10-09/test.jpg){: .mx-auto.d-block :}
+![test](/assets/img/2024-10-09/test.jpg){: .mx-auto.d-block :}
+_do not forget the first slash before the img url_
 
 ## others
 
