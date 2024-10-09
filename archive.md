@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: minimal
 title: rLLM BLOG
 subtitle: This is all about rLLM and what is new
 ---
@@ -54,3 +54,5 @@ If you find rLLM useful, please cite the following paper:
       url={https://arxiv.org/abs/2407.20157}, 
 }
 ```
+
+---
