@@ -7,8 +7,8 @@ gh-badge: [star, fork, follow]
 tags: [release]
 mathjax: true
 author: rLLM Group
-cover-img: /assets/img/2024-10-09/bkgd.jpg
-thumbnail-img: /assets/img/2024-10-09/bkgd.jpg
+# cover-img: /assets/img/2024-10-09/bkgd.jpg
+# thumbnail-img: /assets/img/2024-10-09/bkgd.jpg
 ---
 
 Recently, our research team at Shanghai Jiao Tong University and Tsinghua University released the first version of **rLLM** (relationLLM). The goal is to facilitate the machine learning workflows on those data stored in the relational databases with Large Language Models (LLMs).
